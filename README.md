@@ -27,14 +27,14 @@ Integrantes de TEAM NOCHE:
 • [Videla, Franco](https://github.com/odin1301)
 
 
-## 📆 `Scrum Master mes de agosto´
+## 📆 Scrum Master mes de agosto
 
 | SEMANA                |     SCRUM MASTER     |      
 |-----------------------|----------------------|
 |:pencil: Tercer semana |  Analia Alvarenga    |
 |:pencil: Cuarta semana |  Carlos Hernan Suarez|
 
-## 📆 `Scrum Master mes de septiembre´
+## 📆 Scrum Master mes de septiembre
 
 | SEMANA                |     SCRUM MASTER     |  
 |-----------------------|----------------------|
@@ -43,7 +43,7 @@ Integrantes de TEAM NOCHE:
 |:pencil: Tercer semana |  Yamila Contreras    |
 |:pencil: Cuarta semana |  Bruno Marchetti     |
 
-## 📆 `Scrum Master mes de octubre´
+## 📆 Scrum Master mes de octubre
 
 | SEMANA                |     SCRUM MASTER     |  
 |-----------------------|----------------------|
@@ -52,7 +52,7 @@ Integrantes de TEAM NOCHE:
 |:pencil: Tercer semana |   Marlene Soriano    |
 |:pencil: Cuarta semana |   Franco Videla      |
 
-## 📆 `Scrum Master mes de noviembre´
+## 📆 Scrum Master mes de noviembre
 
 | SEMANA                |     SCRUM MASTER     |  
 |-----------------------|----------------------|
