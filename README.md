@@ -33,31 +33,31 @@ Integrantes de TEAM NOCHE:
 |-----------------------|----------------------|
 |:pencil: Tercer semana |  Analia Alvarenga    |
 |:pencil: Cuarta semana |  Carlos Hernan Suarez|
+|:pencil: Quinta semana |  Ezequiel Soria      | 
 
 ## 📆 Scrum Master mes de septiembre
 
 | SEMANA                |     SCRUM MASTER     |  
 |-----------------------|----------------------|
-|:pencil: Primer semana |  Ezequiel Soria      | 
-|:pencil: Segunda semana|  Florencia Pons      |
-|:pencil: Tercer semana |  Yamila Contreras    |
-|:pencil: Cuarta semana |  Bruno Marchetti     |
+|:pencil: Primer semana |  Florencia Pons      |
+|:pencil: Segunda semana|  Yamila Contreras    |
+|:pencil: Tercera semana|  Bruno Marchetti     |
+|:pencil: Cuarta semana |   Alfredo Marino     | 
 
 ## 📆 Scrum Master mes de octubre
 
 | SEMANA                |     SCRUM MASTER     |  
 |-----------------------|----------------------|
-|:pencil: Primer semana |   Alfredo Marino     | 
-|:pencil: Segunda semana|   Maria Gonzalez     |
-|:pencil: Tercer semana |   Marlene Soriano    |
-|:pencil: Cuarta semana |   Franco Videla      |
+|:pencil: Primer semana |   Maria Gonzalez     |
+|:pencil: Segunda semana|   Marlene Soriano    |
+|:pencil: Tercera semana|   Franco Videla      |
+|:pencil: Cuarta semana |   Analia Alvarenga   |
 
 ## 📆 Scrum Master mes de noviembre
 
 | SEMANA                |     SCRUM MASTER     |  
 |-----------------------|----------------------|
-|:pencil: Primer semana |   Analia Alvarenga   | 
-|:pencil: Segunda semana|  Carlos Hernan Suarez|
-|:pencil: Tercer semana |   Ezequiel Soria     |
-|:pencil: Cuarta semana |   Florencia Pons     |
-
+|:pencil: Primer semana | Carlos Hernan Suarez | 
+|:pencil: Segunda semana|  Ezequiel Soria      |
+|:pencil: Tercer semana |   Florencia Pons     |
+|:pencil: Cuarta semana |   Yamila Contreras   |
